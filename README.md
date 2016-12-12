@@ -22,6 +22,7 @@
 * feiltype
 * detaljertBeskrivelse
 
+# Example
 
 ```js
 const client = require('./index')
