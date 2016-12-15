@@ -21,19 +21,15 @@
   },
   "scripts": {
     "start": "node index.js",
-    "test": "standard && nsp check && tap --reporter=spec test/*.js",
-    "coverage": "tap test/*.js --coverage",
-    "coveralls": "tap --cov --coverage-report=lcov test/*.js && cat coverage/lcov.info | coveralls"
+    "test": "standard && nsp check && tap --reporter=spec test/**/*.js",
+    "coverage": "tap test/**/*.js --coverage",
+    "coveralls": "tap --cov --coverage-report=lcov test/**/*.js && cat coverage/lcov.info | coveralls",
+    "standard-fix": "standard --fix"
   },
   "keywords": [
     "isi",
     "ist"
   ],
-  "standard": {
-    "ignore": [
-      "public"
-    ]
-  },
   "repository": {
     "type": "git",
     "url": "http://github.com/maccyber/rim-service-client.git"

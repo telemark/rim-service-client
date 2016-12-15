@@ -16,7 +16,6 @@ const clientOpts = {
   data: args
 }
 
-
 /*
 client(clientOpts, (err, data) => {
   console.log(err || data)
