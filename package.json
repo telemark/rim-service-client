@@ -44,6 +44,6 @@
     "standard": "10.0.3"
   },
   "dependencies": {
-    "soap": "0.20.0"
+    "soap": "0.21.0"
   }
 }
