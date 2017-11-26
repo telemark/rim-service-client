@@ -38,7 +38,7 @@
     "url": "http://github.com/telemark/rim-service-client/issues"
   },
   "devDependencies": {
-    "tap": "10.7.3",
+    "tap": "11.0.0",
     "coveralls": "3.0.0",
     "nsp": "3.1.0",
     "standard": "10.0.3"
