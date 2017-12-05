@@ -1,8 +1,8 @@
 [![Build Status](https://travis-ci.org/telemark/rim-service-client.svg?branch=master)](https://travis-ci.org/telemark/rim-service-client)
 [![js-standard-style](https://img.shields.io/badge/code%20style-standard-brightgreen.svg?style=flat)](https://github.com/feross/standard)
-# rim-service-client
-
 [![Greenkeeper badge](https://badges.greenkeeper.io/telemark/rim-service-client.svg)](https://greenkeeper.io/)
+
+# rim-service-client
 
 # Create query
 
@@ -18,7 +18,6 @@
 * fodselsnummer
 * arkiveringUtfort
 
-
 ## saveStatusArchivedError
 
 * fagsystemNavn
@@ -28,7 +27,7 @@
 
 # Example
 
-```js
+```JavaScript
 const client = require('./index')
 
 const argOpts = {
