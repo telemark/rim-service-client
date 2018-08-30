@@ -11,3 +11,10 @@ addons:
       - ubuntu-toolchain-r-test
     packages:
       - g++-4.8
+deploy:
+  provider: npm
+  email: $NPM_EMAIL
+  api_key: $NPM_TOKEN
+  on:
+    tags: true
+    branch: master
