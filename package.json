@@ -41,7 +41,7 @@
   },
   "url": "https://github.com/telemark/rim-service-client#readme",
   "devDependencies": {
-    "tap": "14.4.3",
+    "tap": "14.5.0",
     "coveralls": "3.0.5",
     "standard": "13.1.0"
   },
