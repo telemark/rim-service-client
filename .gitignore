@@ -1,5 +1,6 @@
 # IDE
 .idea
+.vs
 .vscode
 
 # OS X
@@ -43,6 +44,8 @@ node_modules
 # Coverage
 coverage
 
+# Local
+.env
+
 # Lock files
 yarn.lock
-package-lock.json
