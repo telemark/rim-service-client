@@ -1,6 +1,5 @@
 [![Build Status](https://travis-ci.org/telemark/rim-service-client.svg?branch=master)](https://travis-ci.org/telemark/rim-service-client)
 [![js-standard-style](https://img.shields.io/badge/code%20style-standard-brightgreen.svg?style=flat)](https://github.com/feross/standard)
-[![Greenkeeper badge](https://badges.greenkeeper.io/telemark/rim-service-client.svg)](https://greenkeeper.io/)
 
 # rim-service-client
 
@@ -62,3 +61,7 @@ client(clientOpts).then((data) => {
   process.exit(1)
 })
 ```
+
+## License
+
+[MIT](LICENSE)
