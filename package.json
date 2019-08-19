@@ -43,7 +43,7 @@
   "devDependencies": {
     "tap": "14.6.1",
     "coveralls": "3.0.6",
-    "standard": "13.1.0"
+    "standard": "14.0.0"
   },
   "dependencies": {
     "soap": "0.29.0"
